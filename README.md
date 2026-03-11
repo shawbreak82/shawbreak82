@@ -1,6 +1,6 @@
 # About Me
 
-## My First Readmy File
+## My First Read me File
 ### This is my first read me file, so just figuring out how to use them
 ### Looks pretty straight forward
 
